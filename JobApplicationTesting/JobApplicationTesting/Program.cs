@@ -4,9 +4,14 @@ namespace JobApplicationTesting
 {
     class Program
     {
-        static void Main(string[] args)
+        public static string FindIntersection(string[] strArr)
         {
-            Console.WriteLine("Hello World!");
+            //code goes here
+            return strArr[0];
+        }
+        static void Main()
+        {
+            Console.WriteLine(FindIntersection(Console.ReadLine()));
         }
     }
 }
