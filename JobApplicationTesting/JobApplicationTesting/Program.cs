@@ -7,6 +7,11 @@ namespace JobApplicationTesting
         public static string FindIntersection(string[] strArr)
         {
             //code goes here
+            
+            //Loop through the two elements from the strArr
+            //If == then add into a results string
+
+            //stringbuilder represents a mutable string of characters
             return strArr[0];
         }
         static void Main()
