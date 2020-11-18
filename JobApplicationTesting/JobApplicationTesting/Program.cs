@@ -1,22 +1,33 @@
-﻿using System;
+﻿using JobApplicationTesting;
+using System;
 
-namespace JobApplicationTesting
+Console.WriteLine("Hello world!");
+Console.WriteLine(Add(2, 3));
+
+PersonModel person1 = new() {Id = 1, FirstName = "Ali", LastName = "Devine" };
+PersonModel person2 = new(2, "Alistair", "Devine");
+PersonModel person3 = null;
+
+Console.WriteLine($"Hello {person1.FirstName} {person1.LastName} ({person1.Id})");
+
+if (person3 is null)
 {
-    class Program
-    {
-        public static string FindIntersection(string[] strArr)
-        {
-            //code goes here
-            
-            //Loop through the two elements from the strArr
-            //If == then add into a results string
+    Console.WriteLine("The value for person three is not set.");
+}
+else
+{
+    Console.WriteLine($"Hello {person3.FirstName} {person3.LastName} ({person3.Id})");
+}
 
-            //stringbuilder represents a mutable string of characters
-            return strArr[0];
-        }
-        static void Main()
-        {
-            Console.WriteLine(FindIntersection(Console.ReadLine()));
-        }
-    }
+if (person2 is not null)
+{
+    Console.WriteLine($"Hello {person2.FirstName} {person2.LastName} ({person2.Id})");
+}
+
+//Don't do this!
+person3 = new();
+
+static double Add(int x, int y)
+{
+    return x + y;
 }

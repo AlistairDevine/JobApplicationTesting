@@ -1,0 +1,16 @@
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\bin\Debug\net5.0\JobApplicationTesting.exe
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\bin\Debug\net5.0\JobApplicationTesting.deps.json
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\bin\Debug\net5.0\JobApplicationTesting.runtimeconfig.json
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\bin\Debug\net5.0\JobApplicationTesting.runtimeconfig.dev.json
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\bin\Debug\net5.0\JobApplicationTesting.dll
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\bin\Debug\net5.0\ref\JobApplicationTesting.dll
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\bin\Debug\net5.0\JobApplicationTesting.pdb
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\obj\Debug\net5.0\JobApplicationTesting.csprojAssemblyReference.cache
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\obj\Debug\net5.0\JobApplicationTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\obj\Debug\net5.0\JobApplicationTesting.AssemblyInfoInputs.cache
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\obj\Debug\net5.0\JobApplicationTesting.AssemblyInfo.cs
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\obj\Debug\net5.0\JobApplicationTesting.csproj.CoreCompileInputs.cache
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\obj\Debug\net5.0\JobApplicationTesting.dll
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\obj\Debug\net5.0\ref\JobApplicationTesting.dll
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\obj\Debug\net5.0\JobApplicationTesting.pdb
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\JobApplicationTesting\obj\Debug\net5.0\JobApplicationTesting.genruntimeconfig.cache
