@@ -1,0 +1,16 @@
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\bin\Debug\net5.0\RecordDemo.exe
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\bin\Debug\net5.0\RecordDemo.deps.json
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\bin\Debug\net5.0\RecordDemo.runtimeconfig.json
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\bin\Debug\net5.0\RecordDemo.runtimeconfig.dev.json
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\bin\Debug\net5.0\RecordDemo.dll
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\bin\Debug\net5.0\ref\RecordDemo.dll
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\bin\Debug\net5.0\RecordDemo.pdb
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\obj\Debug\net5.0\RecordDemo.csprojAssemblyReference.cache
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\obj\Debug\net5.0\RecordDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\obj\Debug\net5.0\RecordDemo.AssemblyInfoInputs.cache
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\obj\Debug\net5.0\RecordDemo.AssemblyInfo.cs
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\obj\Debug\net5.0\RecordDemo.csproj.CoreCompileInputs.cache
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\obj\Debug\net5.0\RecordDemo.dll
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\obj\Debug\net5.0\ref\RecordDemo.dll
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\obj\Debug\net5.0\RecordDemo.pdb
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\RecordDemo\obj\Debug\net5.0\RecordDemo.genruntimeconfig.cache

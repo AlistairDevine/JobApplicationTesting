@@ -1,5 +1,7 @@
 ﻿using JobApplicationTesting;
 using System;
+//To replace the string[] args, normally found in the static void Main()
+Console.WriteLine(args);
 
 Console.WriteLine("Hello world!");
 Console.WriteLine(Add(2, 3));
