@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9oIhnS7lQEbzCtz2zJioXhELXVC6Xb+S/zgipJt9ACsGhtb820h/E9IWbUI7VECObDd40I2Eu86a3TPJePQyyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alist\\OneDrive\\Documents\\GitHub\\JobApplicationTesting\\JobApplicationTesting\\ConsoleDemo\\ConsoleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alist\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\alist\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\alist\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\alist\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
