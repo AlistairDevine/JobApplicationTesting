@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jnLy21V9eiMGjsecMwWd1mLOigPTL8T0dvYPcN+YmZo39lAS4QTJKle2PkxKsBpeKrANAqndGfeo54CdGm6klg==",
+  "dgSpecHash": "un4pQUtL9DmHJtCHnsvB5/JYzuMEV3AvZUjlILlLYYBh83rqSJPRscHw3bi82PQB7uB2pDKxi2P/vTJGPRBN6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\alist\\OneDrive\\Documents\\GitHub\\JobApplicationTesting\\JobApplicationTesting\\BlazorWasmDemo\\BlazorWasmDemo.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,7 @@
     "C:\\Users\\alist\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512",
     "C:\\Users\\alist\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512",
     "C:\\Users\\alist\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\alist\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.0\\microsoft.netcore.app.runtime.browser-wasm.5.0.0.nupkg.sha512"
+    "C:\\Users\\alist\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.1\\microsoft.netcore.app.runtime.browser-wasm.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }

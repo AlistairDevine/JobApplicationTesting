@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordDemo", "RecordDemo\Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormDemo", "WinFormDemo\WinFormDemo.csproj", "{9CD45224-4ADC-4323-8F1F-3F0AE62E0E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDemo", "WPFDemo\WPFDemo.csproj", "{9A89909D-EA34-4971-8B9C-203D54FF525D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFDemo", "WPFDemo\WPFDemo.csproj", "{9A89909D-EA34-4971-8B9C-203D54FF525D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPI", "DemoAPI\DemoAPI.csproj", "{65C49C9A-36D7-4FAC-A32C-1A2C74CB22B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoAPI", "DemoAPI\DemoAPI.csproj", "{65C49C9A-36D7-4FAC-A32C-1A2C74CB22B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmDemo", "BlazorWasmDemo\BlazorWasmDemo.csproj", "{74CADD95-1771-4E4B-82FB-13D9379BE6C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWasmDemo", "BlazorWasmDemo\BlazorWasmDemo.csproj", "{74CADD95-1771-4E4B-82FB-13D9379BE6C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{E9A73598-CB98-4604-AE50-BCEFEC36182A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{E9A73598-CB98-4604-AE50-BCEFEC36182A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAPI", "SampleAPI\SampleAPI.csproj", "{E444BA65-66DD-433E-8662-B68653AFB56F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E9A73598-CB98-4604-AE50-BCEFEC36182A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9A73598-CB98-4604-AE50-BCEFEC36182A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9A73598-CB98-4604-AE50-BCEFEC36182A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E444BA65-66DD-433E-8662-B68653AFB56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E444BA65-66DD-433E-8662-B68653AFB56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E444BA65-66DD-433E-8662-B68653AFB56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E444BA65-66DD-433E-8662-B68653AFB56F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
