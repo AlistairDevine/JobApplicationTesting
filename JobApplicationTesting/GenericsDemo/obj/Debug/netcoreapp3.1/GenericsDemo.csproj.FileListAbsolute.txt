@@ -1,0 +1,13 @@
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.exe
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.deps.json
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.json
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.dev.json
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csprojAssemblyReference.cache
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfo.cs
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\alist\OneDrive\Documents\GitHub\JobApplicationTesting\JobApplicationTesting\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.genruntimeconfig.cache
